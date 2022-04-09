@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Neeraj Singh</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 💬 Ask me about **I am happy to help**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajsingh007&label=Profile%20views&color=0e75b6&style=flat" alt="neerajsingh007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajsingh007" alt="neerajsingh007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 💬 Ask me about **I am happy to help**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
